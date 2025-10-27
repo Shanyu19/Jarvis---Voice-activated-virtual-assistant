@@ -1,4 +1,4 @@
-# 🧠 Jarvis - Your Personal AI Voice Assistant  
+# 🧠 Jarvis - Voice Activated Virtual Assistant  
 
 Jarvis is a Python-based voice assistant inspired by Iron Man’s AI.  
 It can recognize your voice, respond intelligently using OpenAI’s GPT model, play music, fetch news, and open popular websites — all with simple voice commands.  
